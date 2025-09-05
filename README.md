@@ -1,4 +1,4 @@
-# 🧪 QA Retro AI Assistant
+# 🧪 QA Retrospective AI Assistant
 
 A simple command-line tool powered by OpenAI that helps QA teams collect feedback, group it, identify themes, and generate actionable improvements in retrospectives.
 
