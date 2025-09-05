@@ -8,7 +8,7 @@ A simple command-line tool powered by OpenAI that helps QA teams collect feedbac
 
 ```bash
 git clone https://github.com/aiqualitylab/QA-Retrospective-AI-Assistant.git
-cd qa-retro-ai-assistant
+cd qa-retrospective-ai-assistant
 ```
 
 ### 2. Create a virtual environment (recommended)
@@ -121,7 +121,7 @@ Output:
 ## 📁 Project Structure
 
 ```
-qa-retro-ai-assistant/
+qa-retrospective-ai-assistant/
 ├── retro.py              # Main CLI application
 ├── requirements.txt      # Python dependencies
 ├── .env                 # Your API keys (create from .env.example)
