@@ -7,7 +7,7 @@ A simple command-line tool powered by OpenAI that helps QA teams collect feedbac
 ### 1. Clone this repository
 
 ```bash
-git clone 
+git clone https://github.com/aiqualitylab/QA-Retrospective-AI-Assistant.git
 cd qa-retro-ai-assistant
 ```
 
